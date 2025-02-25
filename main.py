@@ -124,3 +124,6 @@ def read_root():
     return {"message": "YOLO11n FastAPI is running. Use /predict/ to POST an image."}
 
 # To run: uvicorn yolo_v8_fastapi:app --reload
+if __name__ == "__main__":
+    import uvicorn
+    uvicorn.run("main:app", host="127.0.0.1", port=8000, reload=True)
