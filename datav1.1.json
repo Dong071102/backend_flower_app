@@ -1,0 +1,948 @@
+{
+    "cuc_tam_tu": {
+        "name": {
+            "commonName": "Cúc Tâm Tư",
+            "scientificName": "Chrysanthemum morifolium",
+            "localName": "Cúc vạn thọ, Cúc tâm tư, Hoa xu xi"
+        },
+        "appearance": {
+            "size": "Trung bình đến nhỏ",
+            "petal": {
+                "shape": "Mỏng, thuôn dài, xếp chồng nhiều lớp",
+                "count": "không xác định",
+                "color": [
+                    "Trắng",
+                    "Vàng nhạt",
+                    "Tím nhạt"
+                ],
+                "texture": "Mềm mại và mịn màng"
+            },
+            "stamen": "Màu vàng nhạt, nhỏ gọn ở trung tâm",
+            "leaf": {
+                "shape": "Hình lông chim, mép lá xẻ thùy",
+                "color": "Xanh đậm",
+                "texture": "Bề mặt hơi nhám"
+            },
+            "stem": {
+                "type": "Mảnh mai, hơi cứng",
+                "features": [
+                    "Khả năng chống chịu gió tốt"
+                ]
+            }
+        },
+        "fragrance": {
+            "level": "Dịu nhẹ",
+            "type": "Tinh khiết, mang cảm giác thư giãn"
+        },
+        "growthCycle": {
+            "bloomingSeason": [
+                "Mùa thu"
+            ],
+            "bloomDuration": "Nở trong vài tuần",
+            "lifespan": "Lâu năm (Perennial)"
+        },
+        "habitatAndDistribution": {
+            "origin": "Đông Á (Trung Quốc, Việt Nam)",
+            "preferredEnvironment": [
+                "Khí hậu mát mẻ",
+                "Đất tơi xốp, thoát nước tốt"
+            ],
+            "adaptability": [
+                "Chịu lạnh tốt",
+                "Ưa ánh sáng tự nhiên"
+            ]
+        },
+        "symbolismAndUses": {
+            "culturalSymbolism": [
+                "Tình cảm chân thành",
+                "Nỗi lòng sâu kín",
+                "Sự kiên cường"
+            ],
+            "uses": [
+                "Trang trí nhà cửa",
+                "Nghệ thuật cắm hoa",
+                "Quà tặng mang thông điệp ý nghĩa"
+            ]
+        },
+        "biologicalCharacteristics": {
+            "pollination": [
+                "Thụ phấn bằng côn trùng",
+                "Tự thụ phấn"
+            ],
+            "hybridizationAbility": "Có khả năng lai tạo với nhiều loài cúc khác"
+        },
+        "sampleImageUrl": [
+            "https://cdn.nhathuoclongchau.com.vn/unsafe/https://cms-prod.s3-sgn09.fptcloud.com/Calendula1_9f01ccc3a1.png",
+            "https://img.mayflower.vn/2018/06/y-nghia-hoa-cuc-tam-tu_635-1024x768.jpg",
+            "https://www.medigoapp.com/uploads/hoa_cuc_tam_tu_3_3e1c156f3d.jpg",
+            "https://cdn.pixabay.com/photo/2015/11/03/17/10/flower-1021155_1280.jpg",
+            "https://postquam.com.vn/images/calendula.jpg"
+        ]
+    },
+    "Dam_but": {
+        "name": {
+            "commonName": "Hoa Dâm Bụt",
+            "scientificName": "Hibiscus rosa-sinensis",
+            "localName": [
+                "hoa râm bụt",
+                "bông bụp",
+                "bông lồng đèn",
+                "đại hồng hoa",
+                "phù tang",
+                "phật tang"
+            ]
+        },
+        "appearance": {
+            "size": "Trung bình (5-15 cm đường kính)",
+            "petal": {
+                "shape": "To, mỏng, hơi uốn cong ở mép",
+                "count": "5 cánh chính, đôi khi có thêm cánh phụ",
+                "color": [
+                    "Đỏ tươi",
+                    "Vàng",
+                    "Hồng",
+                    "Cam",
+                    "Trắng"
+                ],
+                "texture": "Mịn màng và mềm mại"
+            },
+            "stamen": "Dài, nhô ra phía trước, màu vàng với đầu nhụy đỏ tươi",
+            "leaf": {
+                "shape": "Hình trứng hoặc bầu dục, mép có răng cưa",
+                "color": "Xanh đậm",
+                "texture": "Bóng và dày"
+            },
+            "stem": {
+                "type": "Thân bụi hoặc thân cây nhỏ",
+                "features": [
+                    "Có thể mọc đứng hoặc rủ xuống",
+                    "Thân xanh hoặc nâu nhạt"
+                ]
+            }
+        },
+        "fragrance": {
+            "level": "Nhẹ hoặc không mùi",
+            "type": "Hương thơm tinh tế (tùy giống)"
+        },
+        "growthCycle": {
+            "bloomingSeason": [
+                "Mùa xuân",
+                "Mùa hè",
+                "Mùa thu"
+            ],
+            "bloomDuration": "Hoa thường nở vào buổi sáng và tàn vào buổi chiều",
+            "lifespan": "Cây lâu năm"
+        },
+        "habitatAndDistribution": {
+            "origin": "Châu Á (Trung Quốc, Ấn Độ) và Thái Bình Dương",
+            "preferredEnvironment": [
+                "Khí hậu nhiệt đới và cận nhiệt đới",
+                "Đất màu mỡ, thoát nước tốt"
+            ],
+            "adaptability": [
+                "Chịu nắng tốt",
+                "Ít chịu lạnh",
+                "Có thể trồng làm hàng rào hoặc cây cảnh"
+            ]
+        },
+        "symbolismAndUses": {
+            "culturalSymbolism": [
+                "Vẻ đẹp giản dị",
+                "Sức sống mãnh liệt",
+                "Tình yêu nồng cháy"
+            ],
+            "uses": [
+                "Trang trí vườn và hàng rào",
+                "Nguyên liệu trong y học cổ truyền (chữa ho, làm mát cơ thể)",
+                "Pha trà từ cánh hoa (trà hibiscus)",
+                "Biểu tượng trong văn hóa và nghệ thuật dân gian"
+            ]
+        },
+        "biologicalCharacteristics": {
+            "pollination": [
+                "Thụ phấn bằng côn trùng (ong, bướm)",
+                "Gió"
+            ],
+            "hybridizationAbility": "Dễ dàng lai tạo với nhiều giống hibiscus khác, tạo ra màu sắc và kích thước đa dạng"
+        },
+        "sampleImageUrl": [
+            "https://cayxanhhoacanh.com/wp-content/uploads/2018/12/1-hoa-dam-but-thai-nhieu-mau-ram-but-800-533-cayxanhhoacanh.com_.png",
+            "https://hoadepviet.com/wp-content/uploads/2017/08/hoa-dam-but-thai-1.jpg",
+            "https://salt.tikicdn.com/cache/750x750/ts/product/d2/fa/41/d954a6e1447f42f467589be51bf666c4.jpg.webp",
+            "https://cayxanhhuongloc.com.vn/wp-content/uploads/2018/07/275376133_5274414029255984_3186829612657352435_n.jpg",
+            "https://down-vn.img.susercontent.com/file/vn-11134207-7r98o-llrslcxo5azj00.webp"
+        ]
+    },
+    "Tuy_diep": {
+        "name": {
+            "commonName": "Hoa Túy Điệp",
+            "scientificName": "Cleome hassleriana",
+            "localName": [
+                "Hoa nhện",
+                "hoa phong điệp thảo",
+                "hoa hồng ri"
+            ]
+        },
+        "appearance": {
+            "size": "Cao từ 90 đến 150 cm, cụm hoa rộng 10-15 cm",
+            "petal": {
+                "shape": "Cánh hình trứng, mỏng, hơi uốn cong",
+                "count": "4 cánh trên mỗi bông",
+                "color": [
+                    "Tím nhạt",
+                    "Hồng",
+                    "Trắng"
+                ],
+                "texture": "Mịn và mềm mại"
+            },
+            "stamen": "Dài, nhô ra khỏi cánh hoa, màu tím hoặc hồng nhạt",
+            "leaf": {
+                "shape": "Hình chân vịt, gồm 5-7 lá chét",
+                "color": "Xanh lá cây đậm",
+                "texture": "Mịn và hơi bóng"
+            },
+            "stem": {
+                "type": "Thân thảo, thẳng đứng",
+                "features": [
+                    "Có thể có gai nhỏ",
+                    "Thân xanh hoặc tím nhạt"
+                ]
+            }
+        },
+        "fragrance": {
+            "level": "Nhẹ",
+            "type": "Hương thơm dịu dàng"
+        },
+        "growthCycle": {
+            "bloomingSeason": [
+                "Mùa hè",
+                "Mùa thu"
+            ],
+            "bloomDuration": "Nở liên tục trong vài tháng",
+            "lifespan": "Cây hàng năm (1 năm/lứa hoa)"
+        },
+        "habitatAndDistribution": {
+            "origin": "Nam Mỹ (Argentina, Paraguay, Uruguay, và Brazil)",
+            "preferredEnvironment": [
+                "Khí hậu nhiệt đới và cận nhiệt đới",
+                "Đất giàu dinh dưỡng, thoát nước tốt"
+            ],
+            "adaptability": [
+                "Chịu hạn tốt",
+                "Thích nghi với nắng nhiều",
+                "Ít bị sâu bệnh"
+            ]
+        },
+        "symbolismAndUses": {
+            "culturalSymbolism": [
+                "Sự duyên dáng",
+                "Vẻ đẹp bí ẩn",
+                "Tình yêu lãng mạn"
+            ],
+            "uses": [
+                "Trang trí vườn hoa và công viên",
+                "Tạo điểm nhấn cho lối đi và hàng rào",
+                "Trồng để thu hút ong, bướm và chim ruồi"
+            ]
+        },
+        "biologicalCharacteristics": {
+            "pollination": [
+                "Thụ phấn nhờ côn trùng (ong, bướm) và gió"
+            ],
+            "hybridizationAbility": "Có thể lai tạo với các giống Cleome khác để tạo màu sắc đa dạng"
+        },
+        "sampleImageUrl": [
+            "https://caycanhxanh.vn/wp-content/uploads/2022/11/hoa-tuy-diep-tim.jpg",
+            "https://cdn.congthuong.vn/stores/news_dataimages/phamtiep/122018/02/10/3146_3.jpg",
+            "https://images.kienthuc.net.vn/zoomh/800/uploaded/ctvkhoahoc/2018_12_26/su-that-bat-ngo-ve-hoa-tuy-diep-mang-ve-dep-cuc-la.jpg",
+            "https://cayhoacanh.com/wp-content/uploads/2015/05/cay-hoa-tuy-diep-7-300x225.jpg",
+            "https://cayhoacanh.com/wp-content/uploads/2015/05/cay-hoa-tuy-diep-15.jpg"
+        ]
+    },
+    "Xac_phao": {
+        "name": {
+            "commonName": "Hoa Xác Pháo",
+            "scientificName": "Salvia splendens",
+            "localName": [
+                "hoa pháo",
+                "hoa Diễm"
+            ]
+        },
+        "appearance": {
+            "size": "Cao từ 30 đến 60 cm, cụm hoa dài 10-20 cm",
+            "petal": {
+                "shape": "Cánh hình ống, thuôn dài, xếp tầng dọc theo trục hoa",
+                "count": "Nhiều cánh nhỏ xếp chồng lên nhau theo cụm",
+                "color": [
+                    "Đỏ tươi",
+                    "Đỏ cam",
+                    "Tím",
+                    "Trắng (hiếm)"
+                ],
+                "texture": "Mịn, có lớp lông mỏng bên ngoài"
+            },
+            "stamen": "Ẩn trong ống hoa, màu vàng nhạt",
+            "leaf": {
+                "shape": "Hình trứng hoặc trái tim, mép lá có răng cưa",
+                "color": "Xanh đậm",
+                "texture": "Bề mặt hơi nhám, mặt dưới xanh nhạt"
+            },
+            "stem": {
+                "type": "Thân thảo, mọc thẳng đứng",
+                "features": [
+                    "Màu xanh hoặc hơi tím",
+                    "Thân non mềm, thân già cứng cáp hơn"
+                ]
+            }
+        },
+        "fragrance": {
+            "level": "Nhẹ hoặc không mùi rõ rệt",
+            "type": "Hương thảo nhẹ khi nghiền lá"
+        },
+        "growthCycle": {
+            "bloomingSeason": [
+                "Mùa xuân",
+                "Mùa hè",
+                "Mùa thu"
+            ],
+            "bloomDuration": "Ra hoa liên tục trong suốt mùa sinh trưởng",
+            "lifespan": "Cây hàng năm hoặc cây lâu năm trong điều kiện phù hợp"
+        },
+        "habitatAndDistribution": {
+            "origin": "Brazil (Nam Mỹ)",
+            "preferredEnvironment": [
+                "Khí hậu nhiệt đới và cận nhiệt đới",
+                "Đất giàu dinh dưỡng, thoát nước tốt"
+            ],
+            "adaptability": [
+                "Ưa sáng, chịu bóng bán phần",
+                "Chịu hạn tốt, ít sâu bệnh"
+            ]
+        },
+        "symbolismAndUses": {
+            "culturalSymbolism": [
+                "Sự may mắn",
+                "Tinh thần nhiệt huyết",
+                "Tình yêu mãnh liệt"
+            ],
+            "uses": [
+                "Trang trí công viên, vườn hoa đô thị",
+                "Tạo viền và thảm hoa rực rỡ",
+                "Trồng chậu trang trí ban công và sân thượng"
+            ]
+        },
+        "biologicalCharacteristics": {
+            "pollination": [
+                "Thụ phấn nhờ côn trùng như ong và bướm"
+            ],
+            "hybridizationAbility": "Có thể lai tạo để tạo màu sắc và kích thước khác nhau"
+        },
+        "sampleImageUrl": [
+            "https://phunongseeds.com/wp-content/uploads/2021/06/xac-phao.gif",
+            "https://salt.tikicdn.com/cache/750x750/ts/product/19/bd/3c/81f261f42bf58b4cae753c3b24a27d8e.jpg.webp",
+            "https://hatgiongnamchau.com/storage/hatgionghoa/hat-giong-xac-phao-mix-1.3.jpg",
+            "https://img.lazcdn.com/g/p/b22a7d070896617af75224c6fb4bd494.jpg_720x720q80.jpg_.webp",
+            "https://freshdalat.vn/wp-content/uploads/2024/01/hoa-xac-phao-da-lat.jpg"
+        ]
+    },
+    "Oai_huong": {
+        "name": {
+            "commonName": "Hoa Oải Hương",
+            "scientificName": "Lavandula angustifolia",
+            "localName": [
+                "Oải hương ",
+                "Lavender"
+            ]
+        },
+        "appearance": {
+            "size": "Cao từ 30 đến 90 cm",
+            "petal": {
+                "shape": "Nhỏ, hình ống, mọc thành cụm dọc theo cành",
+                "count": "5 cánh trên mỗi bông ",
+                "color": [
+                    "Tím",
+                    "Tím nhạt",
+                    "Hồng (hiếm)"
+                ],
+                "texture": "Mịn và có lớp lông tơ mỏng"
+            },
+            "stamen": "Ẩn bên trong ống hoa, màu vàng nhạt",
+            "leaf": {
+                "shape": "Hẹp, dài, có mép nguyên",
+                "color": "Xanh xám",
+                "texture": "Bề mặt có lớp lông mỏng"
+            },
+            "stem": {
+                "type": "Thân thảo, hơi hóa gỗ khi già",
+                "features": [
+                    "Mọc thẳng",
+                    "Phát triển thành bụi nhỏ"
+                ]
+            }
+        },
+        "fragrance": {
+            "level": "Mạnh",
+            "type": "Hương thơm thảo mộc dễ chịu, có tác dụng thư giãn"
+        },
+        "growthCycle": {
+            "bloomingSeason": [
+                "Mùa hè"
+            ],
+            "bloomDuration": "Ra hoa liên tục trong nhiều tuần",
+            "lifespan": "Cây lâu năm (Perennial)"
+        },
+        "habitatAndDistribution": {
+            "origin": "Địa Trung Hải (Pháp, Ý, Tây Ban Nha)",
+            "preferredEnvironment": [
+                "Khí hậu ôn đới, khô ráo",
+                "Đất thoát nước tốt, giàu dinh dưỡng"
+            ],
+            "adaptability": [
+                "Chịu hạn tốt",
+                "Ưa nắng",
+                "Có thể trồng trong chậu hoặc ngoài trời"
+            ]
+        },
+        "symbolismAndUses": {
+            "culturalSymbolism": [
+                "Thanh khiết",
+                "Sự bình yên",
+                "Tình yêu chung thủy"
+            ],
+            "uses": [
+                "Chiết xuất tinh dầu",
+                "Chữa bệnh và thư giãn",
+                "Trang trí sân vườn",
+                "Nguyên liệu trong mỹ phẩm và nước hoa"
+            ]
+        },
+        "biologicalCharacteristics": {
+            "pollination": [
+                "Thụ phấn nhờ ong, bướm",
+                "Gió"
+            ],
+            "hybridizationAbility": "Có thể lai tạo với các giống oải hương khác để tạo màu sắc và hương thơm đa dạng"
+        },
+        "sampleImageUrl": [
+            "https://hugevietnam.vn/wp-content/uploads/2022/10/cay-oai-huong.jpg",
+            "https://file.hstatic.net/200000455999/file/hoa-oai-huong_021b4b80684949be9a43f8c4cea06f09_grande.png",
+            "https://cdn.eva.vn/upload/3-2022/images/2022-07-15/image21-1657867508-232-width2047height1263.jpg"
+        ]
+    },
+    "Cam_tu_cau": {
+        "name": {
+            "commonName": "Hoa Cẩm Tú Cầu",
+            "scientificName": "Hydrangea macrophylla",
+            "localName": [
+                "Dương Tú Cầu",
+                "Tú Cầu",
+                "Hoa bán tinh",
+                "Hoa cầu bích",
+                "Cây bích cầu"
+            ]
+        },
+        "appearance": {
+            "size": "Cao từ 1 đến 3 mét",
+            "petal": {
+                "shape": "Cánh nhỏ, hình tròn hoặc bầu dục, mọc thành cụm lớn hình cầu",
+                "count": "4 cánh trên mỗi bông",
+                "color": [
+                    "Xanh dương",
+                    "Hồng",
+                    "Trắng",
+                    "Tím",
+                    "Xanh lá (hiếm)"
+                ],
+                "texture": "Mịn và mềm mại"
+            },
+            "stamen": "Ẩn bên trong cánh hoa, màu vàng nhạt hoặc trắng",
+            "leaf": {
+                "shape": "Hình bầu dục, mép có răng cưa",
+                "color": "Xanh đậm",
+                "texture": "Bề mặt nhẵn bóng, hơi dày"
+            },
+            "stem": {
+                "type": "Thân gỗ, phân nhánh",
+                "features": [
+                    "Dẻo dai",
+                    "Có thể mọc thành bụi lớn"
+                ]
+            }
+        },
+        "fragrance": {
+            "level": "Nhẹ hoặc không có mùi",
+            "type": "Hương thơm tinh tế, thoang thoảng"
+        },
+        "growthCycle": {
+            "bloomingSeason": [
+                "Mùa xuân",
+                "Mùa hè"
+            ],
+            "bloomDuration": "Ra hoa kéo dài trong nhiều tháng",
+            "lifespan": "Cây lâu năm (Perennial)"
+        },
+        "habitatAndDistribution": {
+            "origin": "Đông Á (Nhật Bản, Trung Quốc, Hàn Quốc)",
+            "preferredEnvironment": [
+                "Khí hậu ôn đới hoặc cận nhiệt đới",
+                "Đất ẩm, giàu dinh dưỡng"
+            ],
+            "adaptability": [
+                "Thích hợp với bóng râm bán phần",
+                "Thay đổi màu sắc theo độ pH của đất"
+            ]
+        },
+        "symbolismAndUses": {
+            "culturalSymbolism": [
+                "Lòng biết ơn",
+                "Sự thay đổi",
+                "Tình cảm chân thành"
+            ],
+            "uses": [
+                "Trang trí sân vườn",
+                "Cắm hoa nghệ thuật",
+                "Quà tặng trong các dịp đặc biệt"
+            ]
+        },
+        "biologicalCharacteristics": {
+            "pollination": [
+                "Thụ phấn nhờ côn trùng (ong, bướm)",
+                "Tự thụ phấn một phần"
+            ],
+            "hybridizationAbility": "Có thể lai tạo với các loài Hydrangea khác để tạo ra màu sắc đa dạng"
+        },
+        "sampleImageUrl": [
+            "https://hoatuoi360.vn/uploads/file/su-tich-loai-hoa-cam-tu-cau.jpg",
+            "https://hoatuoidalat.vn/wp-content/uploads/2021/03/cam-tu-cau-co-bao-nhieu-mau.jpg",
+            "https://jgarden.vn/wp-content/uploads/2020/08/bloom-1851481_1920.jpg"
+        ]
+    },
+    "Cuc_bach_nhat": {
+        "name": {
+            "commonName": "Cúc Bánh Nhật",
+            "scientificName": "Gomphrena globosa",
+            "localName": [
+                "Cúc Bách Nhật",
+                "Hoa Bi",
+                "Hoa Cúc Nút Áo"
+            ]
+        },
+        "appearance": {
+            "size": "Cao từ 30 đến 60 cm",
+            "petal": {
+                "shape": "Hoa hình cầu, nhỏ gọn, mọc thành cụm",
+                "count": "Không xác định",
+                "color": [
+                    "Tím",
+                    "Hồng",
+                    "Đỏ",
+                    "Trắng",
+                    "Cam"
+                ],
+                "texture": "Mỏng, khô, hơi cứng"
+            },
+            "stamen": "Ẩn bên trong cụm hoa, màu vàng nhạt",
+            "leaf": {
+                "shape": "Hình mũi mác, hơi thuôn dài",
+                "color": "Xanh nhạt",
+                "texture": "Có lớp lông tơ mềm"
+            },
+            "stem": {
+                "type": "Thân thảo, phân nhánh",
+                "features": [
+                    "Mọc thẳng",
+                    "Dẻo dai, có thể bò lan nhẹ"
+                ]
+            }
+        },
+        "fragrance": {
+            "level": "Nhẹ hoặc không mùi rõ rệt",
+            "type": "Hương thơm thảo mộc nhẹ (tùy giống)"
+        },
+        "growthCycle": {
+            "bloomingSeason": [
+                "Mùa hè",
+                "Mùa thu"
+            ],
+            "bloomDuration": "Nở liên tục trong nhiều tuần",
+            "lifespan": "Cây hàng năm (Annual)"
+        },
+        "habitatAndDistribution": {
+            "origin": "Châu Mỹ nhiệt đới (Trung Mỹ, Nam Mỹ)",
+            "preferredEnvironment": [
+                "Khí hậu ấm áp, nhiều nắng",
+                "Đất thoát nước tốt, giàu dinh dưỡng"
+            ],
+            "adaptability": [
+                "Chịu hạn tốt",
+                "Ưa sáng mạnh",
+                "Có thể trồng trong chậu hoặc ngoài trời"
+            ]
+        },
+        "symbolismAndUses": {
+            "culturalSymbolism": [
+                "Sự vĩnh cửu",
+                "Tình yêu bất diệt",
+                "Sự kiên trì"
+            ],
+            "uses": [
+                "Trang trí sân vườn",
+                "Làm hoa khô",
+                "Nguyên liệu pha trà thảo mộc"
+            ]
+        },
+        "biologicalCharacteristics": {
+            "pollination": [
+                "Thụ phấn nhờ côn trùng (ong, bướm)",
+                "Gió"
+            ],
+            "hybridizationAbility": "Có thể lai tạo với các giống Gomphrena khác để tạo màu sắc đa dạng"
+        },
+        "sampleImageUrl": [
+            "https://www.thuocdantoc.org/wp-content/uploads/2020/02/cuc-bach-nhat.jpg",
+            "https://vnras.com/wp-content/uploads/2023/11/cuc-bach-nhat.jpg",
+            "https://khuvuonmini.com/asset/upload/image/CUC_BACH_NHAT.png?v=20190410"
+        ]
+    },
+    "Cuc_hoa_mi": {
+        "name": {
+            "commonName": "Cúc Họa Mi",
+            "scientificName": "Bellis perennis",
+            "localName": [
+                "Hoa Cúc Trắng",
+                "Cúc Dại"
+            ]
+        },
+        "appearance": {
+            "size": "Cao từ 10 đến 30 cm",
+            "petal": {
+                "shape": "Cánh dài, thuôn nhọn, xếp đều quanh tâm",
+                "count": "Không xác định",
+                "color": [
+                    "Trắng",
+                    "Hồng nhạt",
+                    "Tím nhạt"
+                ],
+                "texture": "Mỏng, mềm mại"
+            },
+            "stamen": "Màu vàng tươi, nằm ở trung tâm hoa",
+            "leaf": {
+                "shape": "Hình bầu dục, mép lá hơi lượn sóng",
+                "color": "Xanh đậm",
+                "texture": "Bề mặt nhẵn, hơi bóng"
+            },
+            "stem": {
+                "type": "Thân thảo, mảnh mai",
+                "features": [
+                    "Mọc thẳng",
+                    "Dẻo dai, dễ uốn cong"
+                ]
+            }
+        },
+        "fragrance": {
+            "level": "Nhẹ",
+            "type": "Hương thơm thanh mát, tự nhiên"
+        },
+        "growthCycle": {
+            "bloomingSeason": [
+                "Mùa xuân",
+                "Mùa thu"
+            ],
+            "bloomDuration": "Nở liên tục trong nhiều tuần",
+            "lifespan": "Cây lâu năm (Perennial)"
+        },
+        "habitatAndDistribution": {
+            "origin": "Châu Âu, Bắc Phi, và Tây Á",
+            "preferredEnvironment": [
+                "Khí hậu ôn đới, mát mẻ",
+                "Đất tơi xốp, thoát nước tốt"
+            ],
+            "adaptability": [
+                "Ưa sáng",
+                "Chịu lạnh tốt",
+                "Có thể trồng trong chậu hoặc ngoài trời"
+            ]
+        },
+        "symbolismAndUses": {
+            "culturalSymbolism": [
+                "Sự trong sáng",
+                "Tình yêu thuần khiết",
+                "Khởi đầu mới"
+            ],
+            "uses": [
+                "Trang trí sân vườn",
+                "Cắm hoa nghệ thuật",
+                "Làm trà thảo mộc"
+            ]
+        },
+        "biologicalCharacteristics": {
+            "pollination": [
+                "Thụ phấn nhờ ong, bướm",
+                "Tự thụ phấn một phần"
+            ],
+            "hybridizationAbility": "Có thể lai tạo với các giống cúc khác để tạo ra màu sắc và hình dạng đa dạng"
+        },
+        "sampleImageUrl": [
+            "https://i.pinimg.com/736x/fd/42/f2/fd42f212cfeafa1de49b184c05d979d9.jpg",
+            "https://spacet-release.s3.ap-southeast-1.amazonaws.com/img/blog/2023-10-16/cuc-hoa-mi-trang-tri-khu-vuc-thu-gian-giai-tri-trong-nha-652cbca44023b8488f850f8f.webp",
+            "https://tapl.edu.vn/public/upload/2024/10/hoa-cuc-hoa-mi-002.webp"
+        ]
+    },
+    "Cuc_tay": {
+        "name": {
+            "commonName": "Hoa Cúc Tây",
+            "scientificName": "Aster ",
+            "localName": [
+                "Cúc Tím",
+                "Cúc Sao",
+                "Cúc Dại"
+            ]
+        },
+        "appearance": {
+            "size": "Cao từ 30 đến 120 cm",
+            "petal": {
+                "shape": "Cánh dài, thuôn nhọn, xếp tỏa tròn quanh tâm",
+                "count": "Không xác định",
+                "color": [
+                    "Tím",
+                    "Hồng",
+                    "Trắng",
+                    "Xanh nhạt"
+                ],
+                "texture": "Mỏng, mềm mại"
+            },
+            "stamen": "Màu vàng tươi, nổi bật ở trung tâm",
+            "leaf": {
+                "shape": "Hình mũi mác, mép lá có răng cưa nhẹ",
+                "color": "Xanh đậm",
+                "texture": "Bề mặt hơi nhám, có gân lá rõ"
+            },
+            "stem": {
+                "type": "Thân thảo, phân nhánh nhiều",
+                "features": [
+                    "Mọc thẳng đứng",
+                    "Khả năng sinh trưởng nhanh"
+                ]
+            }
+        },
+        "fragrance": {
+            "level": "Nhẹ",
+            "type": "Hương thơm dịu dàng, thoang thoảng"
+        },
+        "growthCycle": {
+            "bloomingSeason": [
+                "Mùa thu",
+                "Mùa hè"
+            ],
+            "bloomDuration": "Nở kéo dài từ vài tuần đến vài tháng",
+            "lifespan": "Cây lâu năm (Perennial)"
+        },
+        "habitatAndDistribution": {
+            "origin": "Bắc Mỹ, Châu Âu, và Châu Á",
+            "preferredEnvironment": [
+                "Khí hậu ôn đới, mát mẻ",
+                "Đất tơi xốp, giàu dinh dưỡng"
+            ],
+            "adaptability": [
+                "Ưa sáng, nhưng có thể chịu bóng nhẹ",
+                "Chịu lạnh tốt",
+                "Dễ chăm sóc, ít sâu bệnh"
+            ]
+        },
+        "symbolismAndUses": {
+            "culturalSymbolism": [
+                "Sự kiên trì",
+                "Tình yêu vĩnh cửu",
+                "Niềm hy vọng"
+            ],
+            "uses": [
+                "Trang trí sân vườn",
+                "Cắm hoa nghệ thuật",
+                "Làm quà tặng ý nghĩa"
+            ]
+        },
+        "biologicalCharacteristics": {
+            "pollination": [
+                "Thụ phấn nhờ côn trùng (ong, bướm)",
+                "Tự thụ phấn một phần"
+            ],
+            "hybridizationAbility": "Có thể lai tạo với các loài Aster khác để tạo màu sắc đa dạng"
+        },
+        "sampleImageUrl": [
+            "https://vuonhoatuoi.vn/wp-content/uploads/2023/05/aster-3724927_640-600x400.jpg",
+            "https://vuonhoatuoi.vn/wp-content/uploads/2023/05/aster-7120722_640-600x400.jpg",
+            "https://vuonhoatuoi.vn/wp-content/uploads/2023/05/aster-3704588_640-600x400.jpg"
+        ]
+    },
+    "Mai_dia_thao": {
+        "name": {
+            "commonName": "Mai Địa Thảo",
+            "scientificName": "Impatiens walleriana",
+            "localName": [
+                "Ngọc Thảo",
+                "Mai Địa Thảo Nhật",
+                "Mai Địa Thảo Rủ"
+            ]
+        },
+        "appearance": {
+            "size": "Cao từ 20 đến 50 cm",
+            "petal": {
+                "shape": "Cánh tròn, hơi cong nhẹ, xếp đều quanh tâm",
+                "count": "4 cánh trên mỗi bông",
+                "color": [
+                    "Hồng",
+                    "Đỏ",
+                    "Tím",
+                    "Trắng",
+                    "Cam"
+                ],
+                "texture": "Mỏng, mềm mại, hơi bóng"
+            },
+            "stamen": "Ẩn bên trong cánh hoa, màu vàng nhạt",
+            "leaf": {
+                "shape": "Hình mũi mác, mép có răng cưa nhỏ",
+                "color": "Xanh đậm",
+                "texture": "Bề mặt nhẵn, hơi bóng"
+            },
+            "stem": {
+                "type": "Thân thảo, mọng nước",
+                "features": [
+                    "Mọc thẳng hoặc buông rủ",
+                    "Dễ gãy nếu không cẩn thận"
+                ]
+            }
+        },
+        "fragrance": {
+            "level": "Nhẹ hoặc không có mùi",
+            "type": "Hương thơm dịu nhẹ (tùy giống)"
+        },
+        "growthCycle": {
+            "bloomingSeason": [
+                "Quanh năm",
+                "Nở rộ vào mùa xuân và hè"
+            ],
+            "bloomDuration": "Ra hoa liên tục trong nhiều tháng",
+            "lifespan": "Cây hàng năm (Annual), đôi khi có thể sống lâu hơn trong điều kiện thích hợp"
+        },
+        "habitatAndDistribution": {
+            "origin": "Đông Phi (Tanzania, Mozambique)",
+            "preferredEnvironment": [
+                "Khí hậu nhiệt đới và cận nhiệt đới",
+                "Đất giàu dinh dưỡng, thoát nước tốt"
+            ],
+            "adaptability": [
+                "Ưa bóng râm bán phần",
+                "Dễ trồng trong chậu hoặc luống hoa",
+                "Không chịu được sương giá"
+            ]
+        },
+        "symbolismAndUses": {
+            "culturalSymbolism": [
+                "Sự dịu dàng",
+                "Lòng kiên nhẫn",
+                "Tình yêu chung thủy"
+            ],
+            "uses": [
+                "Trang trí sân vườn, ban công",
+                "Trồng làm viền hoa hoặc thảm hoa",
+                "Làm cây cảnh trong nhà"
+            ]
+        },
+        "biologicalCharacteristics": {
+            "pollination": [
+                "Thụ phấn nhờ ong, bướm",
+                "Tự thụ phấn một phần"
+            ],
+            "hybridizationAbility": "Có thể lai tạo với các giống Impatiens khác để tạo màu sắc và hình dáng đa dạng"
+        },
+        "sampleImageUrl": [
+            "https://saigonzoo.net/wp-content/uploads/2020/04/mai-dia-thao-don2-500x420-1.jpg",
+            "https://file.hstatic.net/200000385233/file/mai-dia-thao-b112_4dcdce1f397746bca66f56cf9d099358_grande.jpg",
+            "https://dulieuxanh.com/wp-content/uploads/2019/12/mai_dia_thao_tim.jpg"
+        ]
+    },
+    "Sim": {
+        "name": {
+            "commonName": "Hoa Sim",
+            "scientificName": "Rhodomyrtus tomentosa",
+            "localName": [
+                "Sim Rừng",
+                "Hồng Sim",
+                "Đào Kim Nương"
+            ]
+        },
+        "appearance": {
+            "size": "Cao từ 1 đến 3 mét",
+            "petal": {
+                "shape": "Cánh tròn, mềm mại, hơi uốn cong",
+                "count": "5 cánh trên mỗi bông",
+                "color": [
+                    "Tím",
+                    "Hồng nhạt"
+                ],
+                "texture": "Mỏng, mịn màng"
+            },
+            "stamen": "Màu vàng, dài và tỏa tròn quanh nhụy",
+            "leaf": {
+                "shape": "Hình bầu dục, mép nguyên",
+                "color": "Xanh đậm",
+                "texture": "Bề mặt có lớp lông tơ mịn"
+            },
+            "stem": {
+                "type": "Thân gỗ nhỏ, phân nhánh nhiều",
+                "features": [
+                    "Dai và bền",
+                    "Có khả năng chống chịu tốt"
+                ]
+            }
+        },
+        "fragrance": {
+            "level": "Nhẹ",
+            "type": "Hương thơm ngọt ngào, dễ chịu"
+        },
+        "growthCycle": {
+            "bloomingSeason": [
+                "Mùa hè",
+                "Mùa thu"
+            ],
+            "bloomDuration": "Hoa nở kéo dài trong nhiều tuần",
+            "lifespan": "Cây lâu năm (Perennial)"
+        },
+        "habitatAndDistribution": {
+            "origin": "Châu Á nhiệt đới (Việt Nam, Trung Quốc, Thái Lan)",
+            "preferredEnvironment": [
+                "Khí hậu nhiệt đới và cận nhiệt đới",
+                "Đất cát pha, thoát nước tốt"
+            ],
+            "adaptability": [
+                "Chịu hạn tốt",
+                "Ưa sáng mạnh",
+                "Có thể mọc trên đất nghèo dinh dưỡng"
+            ]
+        },
+        "symbolismAndUses": {
+            "culturalSymbolism": [
+                "Tình yêu chung thủy",
+                "Sự nhớ nhung",
+                "Sức sống mãnh liệt"
+            ],
+            "uses": [
+                "Trồng làm cảnh",
+                "Chế biến rượu sim",
+                "Làm thuốc chữa bệnh"
+            ]
+        },
+        "biologicalCharacteristics": {
+            "pollination": [
+                "Thụ phấn nhờ ong, bướm",
+                "Tự thụ phấn một phần"
+            ],
+            "hybridizationAbility": "Có thể lai tạo với các loài Myrtaceae khác"
+        },
+        "sampleImageUrl": [
+            "https://www.studytienganh.vn/upload/2021/03/93774.png",
+            "https://kobi.vn/wp-content/uploads/2022/06/hoa-sim-thuoc-loai-hoa-luong-tinh-2.jpg",
+            "https://cayxanhvietnam.vn/uploads/images/slide/hoa%20sim.jpg"
+        ]
+    }
+}

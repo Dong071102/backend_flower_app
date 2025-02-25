@@ -7,6 +7,7 @@ from ultralytics import YOLO
 import cv2
 import numpy as np
 import io
+import json
 try:
     import requests
 except ImportError:
@@ -16,7 +17,7 @@ except ImportError:
 app = FastAPI()
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["http://localhost:5173"],  # Cho phép frontend React Vite truy cập
+    allow_origins=["http://localhost:5173",'http://localhost:5174'],  # Cho phép frontend React Vite truy cập
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],
@@ -71,22 +72,53 @@ async def predict_from_url(request: URLRequest):
 def run_inference(image):
     results = model(image)
     response = []
-
+    class_names=['Cẩm tú cầu', 'Cúc bách nhật', 'Cúc họa mi',  'Cúc tâm tư', 'Cúc tây', 'Dâm bụt', 'Mai địa thảo', 'Ỏai hương', 'Sim', 'Túy điệp','Xác pháo','Không xác định']
     for result in results:
         probs = result.probs.data.cpu().numpy()
-        class_names = model.names
+        class_id = model.names
+        print( f"this is class name {class_id}")
 
         # Get top 5 indices with highest probabilities
         top5_indices = np.argsort(probs)[-5:][::-1]
 
         # Prepare the response with class names and scores
         response = [
-            {"class": class_names[int(idx)], "confidence": float(probs[idx])}
+            {"class": class_names[int(idx)], "confidence": float(probs[idx]),"class_id":class_id[int(idx)]}
             for idx in top5_indices
         ]
 
     return JSONResponse(content={"top5_predictions": response})
 
+app.post('/flower_info/')  # POST method
+class FlowerInfoRequest(BaseModel):
+    flower_class: str
+
+@app.post("/flower_info/")
+async def flower_info(request: FlowerInfoRequest):
+    try:
+        # Adjust relative path if necessary.
+        with open("datav1.1.json", "r", encoding="utf-8") as f:
+            data = json.load(f)
+        flower_class_input = request.flower_class.strip().lower()
+        print(flower_class_input)
+        matched_data = None
+        # Try matching either the key (e.g., "cuc_tam_tu") or the "commonName" field.
+        for key, details in data.items():
+            print(key.lower())
+            if key.lower() == flower_class_input:
+                matched_data = details
+                break
+            common_name = details.get("name", {}).get("commonName", "").lower()
+            if common_name == flower_class_input:
+                matched_data = details
+                break
+
+        if not matched_data:
+            raise HTTPException(status_code=404, detail="Flower not found.")
+
+        return JSONResponse(content=matched_data)
+    except Exception as e:
+        raise HTTPException(status_code=500, detail=str(e))
 @app.get("/")
 def read_root():
     return {"message": "YOLO11n FastAPI is running. Use /predict/ to POST an image."}
